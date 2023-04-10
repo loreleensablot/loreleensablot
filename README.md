@@ -11,14 +11,14 @@
 I am an enthusiastic Mobile Application Developer with almost 5 years of experience in Android development. I am passionate about creating efficient and user-friendly applications while sharing my knowledge with others. Currently, I work as a Mobile Developer at Navagis, where I collaborate with a team of developers to build mobile applications utilizing location intelligence and cloud solutions. Prior to this, I worked at MONEYME as an Android Developer, where I was part of a team of six, developing new features and conducting research for the MME app.
 
 # 👩‍💻 Experience
-- Mobile Developer, Navagis (2019 - Present)
-- Android Developer, MONEYME (2017 - 2019)
+- Mobile Developer, Navagis (December 2022 - Present)
+- Android Developer, MONEYME (December 2018 - December 2022)
 
 ## 👩‍🏫 Teaching Experience
 - Co-Founder, Nexxus Lab
 - Instructor, KodeGo
-- Instructor, CIIT College of Arts and Technology
-- Chief of Staff, Leading With Success
+- Former Instructor, CIIT College of Arts and Technology
+- Former Chief of Staff, Leading With Success
 
 ## 🛠 Skills
 - Java
