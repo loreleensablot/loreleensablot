@@ -1,8 +1,6 @@
 
 # Loreleen Mae "YOYE" Sablot
 
-![Logo](https://media.licdn.com/dms/image/D5616AQHy_8ACqZ8zmw/profile-displaybackgroundimage-shrink_350_1400/0/1679647139167?e=1686787200&v=beta&t=tDxkNM3OSOUUtr9vI_uMqNiWxneFCGJpsoOI03Osd7k)
-
 [![website](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://loreleensablot.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loreleensablot/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yoyesablot)
