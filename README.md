@@ -14,7 +14,7 @@ I am an enthusiastic Mobile Application Developer with almost 5 years of experie
 
 ## 👩‍🏫 Teaching Experience
 - Co-Founder, Nexxus Lab
-- Instructor, KodeGo
+- Former Instructor, KodeGo
 - Former Instructor, CIIT College of Arts and Technology
 - Former Chief of Staff, Leading With Success
 
@@ -28,6 +28,7 @@ I am an enthusiastic Mobile Application Developer with almost 5 years of experie
 - MVVM
 - Unit Test
 - UI Test
+- Jetpack Compose
 
 ## 🛴 Hobbies
 In my downtime, you can find me riding my electric kick scooter, playing Valorant with friends, or attending tech meetups in Metro Manila. I love meeting new people and am always up for a cup of coffee and a chat.
