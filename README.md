@@ -1,15 +1,11 @@
 
 # Loreleen Mae "YOYE" Sablot
 
-[![website](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://loreleensablot.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loreleensablot/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yoyesablot)
 
-## 💻 Summary
-I am an enthusiastic Mobile Application Developer with almost 5 years of experience in Android development. I am passionate about creating efficient and user-friendly applications while sharing my knowledge with others. Currently, I work as a Mobile Developer at Navagis, where I collaborate with a team of developers to build mobile applications utilizing location intelligence and cloud solutions. Prior to this, I worked at MONEYME as an Android Developer, where I was part of a team of six, developing new features and conducting research for the MME app.
-
 # 👩‍💻 Experience
-- Mobile Developer, Navagis (December 2022 - Present)
+
 - Android Developer, MONEYME (December 2018 - December 2022)
 
 ## 👩‍🏫 Teaching Experience
