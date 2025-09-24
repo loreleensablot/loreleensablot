@@ -9,7 +9,6 @@
 - Android Developer, MONEYME (December 2018 - December 2022)
 
 ## 👩‍🏫 Teaching Experience
-- Co-Founder, Nexxus Lab
 - Former Instructor, KodeGo
 - Former Instructor, CIIT College of Arts and Technology
 - Former Chief of Staff, Leading With Success
